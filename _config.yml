@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "" # the subpath of your site, e.g. /blog
+title: Nathaniel
+subtitle: Nauman
+email: nnauman@purdue.edu
+description: A personal website about my research, projects,<br /> language-learning, and travel.
+baseurl: ""
 url:
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: Purdue University
+city: West Lafayette
+state: IN
+zip_code: 47907
+country: United States
+phone: (765) 413-4228
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
