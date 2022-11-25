@@ -6,11 +6,11 @@ description: A personal website about my research, projects,<br /> language-lear
 baseurl: ""
 url:
 author:
-street_address: Purdue University
-city: West Lafayette
-state: IN
-zip_code: 47907
-country: United States
+street_address:
+city:
+state:
+zip_code:
+country:
 phone: (765) 413-4228
 
 # homepage tiles
