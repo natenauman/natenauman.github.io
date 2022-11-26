@@ -2,7 +2,7 @@
 layout: landing
 title: Projects
 description: Portfolio of academic projects
-image: assets/images/pic11.jpg
+image: assets/images/hardware.jpg
 nav-menu: true
 ---
 
