@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-description: Lorem ipsum dolor est
+description: Team project portfolio
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
