@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Projects
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
