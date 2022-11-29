@@ -1,6 +1,7 @@
 ---
 layout: landing
 title: Research
+description: Undergraduate research assistant
 image: assets/images/wafer.jpg
 nav-menu: true
 ---
@@ -51,7 +52,7 @@ nav-menu: true
 				<header class="major">
 					<h3>DSN Conference</h3>
 				</header>
-				<p>I had the honor of being invited to speak at the Dependable Systems and Networks international conference in June, 2022. I presented my extended abstract on real-time digital filtering for IoT data in programmable network switches.</p>
+				<p>I wrote an extended abstract with Professor Saurabh Bagchi on offloading data filtration for Internet of Things sensors, and in June 2022, I was invited to present my work at the Dependable Systems and Networks conference in Baltimore.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -67,7 +68,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Professor Michael Ladisch's Laboratory of Renewable Resources</h3>
 				</header>
-				<p>I worked with Dr. Jan Kaiser and Professor Datta on the hardware acceleration of probabilistic circuits. I also pursued an independent project on numerical analysis for highly nonlinear stochastic differential equations.</p>
+				<p>I led a team comprised of two other students, one from animal sciences and the other from agribusiness, under Distinguished Professor Michael Ladisch to invent and experimentally validate a new soy-based biostimulant. We won an award of $20,000 and gave numerous interviews. In August 2021, I was invited to speak about the environmental benefits of my biostimulant product with Indiana’s Industry Affairs Committee, a panel composed of state senators and industry leaders. This was an opportunity for me to convey my work to people with non-technical backgrounds. While in Professor Ladisch's lab, I also gained experience analyzing proteins with high-performance liquid chromotagraphy equipment.</p>
 				<ul class="actions">
 					<li><a href="processor.html" class="button">Learn more</a></li>
 				</ul>
