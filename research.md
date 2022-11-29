@@ -58,4 +58,20 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Professor Michael Ladisch's Laboratory of Renewable Resources</h3>
+				</header>
+				<p>I worked with Dr. Jan Kaiser and Professor Datta on the hardware acceleration of probabilistic circuits. I also pursued an independent project on numerical analysis for highly nonlinear stochastic differential equations.</p>
+				<ul class="actions">
+					<li><a href="processor.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
