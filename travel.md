@@ -9,6 +9,15 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
+  <!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<h1>Photography</h1>
+		</header>
+
+<!-- Content -->
+<h2 id="content">Studying Intermediate Arabic in Rabat, Morocco through NSLI-Y Immersion Program</h2>
 
 <html>
 <head>
