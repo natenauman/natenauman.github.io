@@ -8,9 +8,7 @@ author: null
 show_tile: false
 ---
 
-<img src="assets/images/ismael.jpg" alt="Nathaniel Nauman" width="250" height="200">
-
-I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.
+<img src="assets/images/ismael.jpg" alt="Nathaniel Nauman" width="250" height="200"> I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.
 
 Master's of Science in Computer Engineering (2023), Purdue University, West Lafayette, IN
 
