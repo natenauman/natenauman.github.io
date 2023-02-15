@@ -8,9 +8,7 @@ author: null
 show_tile: false
 ---
 
-<a href="generic.html" class="image">
-		    <img src="{% link https://github.com/natenauman/natenauman.github.io/assets/images/ismael.jpg %}" alt="" />
-		</a>
+<img src="assets/ismael.jpg" alt="Nathaniel Nauman">
 
 I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.
 
