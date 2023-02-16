@@ -11,7 +11,7 @@ show_tile: false
 <html>
 <head>
 
-  <link rel="icon" type="image/x-icon" href="/assets/noon.ico">
+  <link rel="icon" href="/assets/noon.ico">
   
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
