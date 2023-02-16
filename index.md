@@ -46,20 +46,16 @@ show_tile: false
 <div class="row">
   <div class="column left">
     <h2>Column 1</h2>
-    <p>Some text..</p>
+    <p>I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.</p>
   </div>
   <div class="column right">
     <h2>Column 2</h2>
-    <p>Some text..</p>
+    <img src="assets/images/sunset.jpg" alt="Nathaniel Nauman" width="250" height="200"> 
   </div>
 </div>
 
 </body>
-</html>  
-  
-<img src="assets/images/sunset.jpg" alt="Nathaniel Nauman" width="250" height="200"> 
-
-I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.
+</html>
 
 Master's of Science in Computer Engineering (2023), Purdue University, West Lafayette, IN
 
