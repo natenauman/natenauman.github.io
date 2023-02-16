@@ -24,11 +24,11 @@ show_tile: false
 }
 
 .left {
-  width: 70%;
+  width: 60%;
 }
 
 .right {
-  width: 30%;
+  width: 40%;
 }
 
 /* Clear floats after the columns */
@@ -44,7 +44,9 @@ show_tile: false
 <div class="row">
   <div class="column left">
     <p>I am a master's student in computer engineering at Purdue University. I graduated with Honors from Purdue University in 2022, where I received my BS in Computer Engineering and minors in both Mathematics and Arabic.<br>
-    My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity. I am excited to explore novel device physics in my Ph.D.</p>
+    My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity. I am excited to explore novel device physics in my Ph.D.<br><br>
+      **Master's of Science** in Electrical and Computer Engineering (2023), Purdue University, West Lafayette, IN<br>
+      **Bachelors of Science Honors** in Computer Engineering (2022), Purdue University, West Lafayette, IN</p>
   </div>
   <div class="column right">
     <img src="assets/images/bio_photo.png" alt="Nathaniel Nauman" width="500"> 
@@ -53,7 +55,3 @@ show_tile: false
 
 </body>
 </html>
-
-**Master's of Science** in Electrical and Computer Engineering (2023), Purdue University, West Lafayette, IN
-
-**Bachelors of Science Honors** in Computer Engineering (2022), Purdue University, West Lafayette, IN
