@@ -43,8 +43,8 @@ show_tile: false
 
 <div class="row">
   <div class="column left">
-    <p>I am a master's student in computer engineering at Purdue University. I graduated with Honors from Purdue University in 2022, where I received my BS in Computer Engineering and minors in both Mathematics and Arabic.
-    My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.</p>
+    <p>I am a master's student in computer engineering at Purdue University. I graduated with Honors from Purdue University in 2022, where I received my BS in Computer Engineering and minors in both Mathematics and Arabic.<br>
+    My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity. I am excited to explore novel device physics in my Ph.D.</p>
   </div>
   <div class="column right">
     <img src="assets/images/bio_photo.jpg" alt="Nathaniel Nauman" width="400"> 
