@@ -47,7 +47,7 @@ show_tile: false
     My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.</p>
   </div>
   <div class="column right">
-    <img src="assets/images/bio_photo.jpg" alt="Nathaniel Nauman" width="300" height="250"> 
+    <img src="assets/images/bio_photo.jpg" alt="Nathaniel Nauman" width="400"> 
   </div>
 </div>
 
