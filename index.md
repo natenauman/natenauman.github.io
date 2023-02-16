@@ -41,15 +41,11 @@ show_tile: false
 </head>
 <body>
 
-<h2>Two Unequal Columns</h2>
-
 <div class="row">
   <div class="column left">
-    <h2>Column 1</h2>
     <p>I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.</p>
   </div>
   <div class="column right">
-    <h2>Column 2</h2>
     <img src="assets/images/sunset.jpg" alt="Nathaniel Nauman" width="250" height="200"> 
   </div>
 </div>
