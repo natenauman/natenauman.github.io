@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Travel
-description: Photography and language-learning
+title: Personal
+description: Travel and language-learning
 image: assets/images/tablemountain.jpg
 nav-menu: true
 ---
