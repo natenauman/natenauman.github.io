@@ -20,7 +20,7 @@ show_tile: false
 .column {
   float: left;
   padding: 10px;
-  height: 300px; /* Should be removed. Only for demonstration */
+  /* height: 300px; Should be removed. Only for demonstration */
 }
 
 .left {
@@ -46,13 +46,13 @@ show_tile: false
     <p>I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.</p>
   </div>
   <div class="column right">
-    <img src="assets/images/sunset.jpg" alt="Nathaniel Nauman" width="250" height="200"> 
+    <img src="assets/images/sunset.jpg" alt="Nathaniel Nauman" width="300" height="250"> 
   </div>
 </div>
 
 </body>
 </html>
 
-Master's of Science in Computer Engineering (2023), Purdue University, West Lafayette, IN
+**Master's of Science** in Electrical and Computer Engineering (2023), **Purdue University**, West Lafayette, IN
 
-Bachelors of Science in Computer Engineering (2022), Purdue University, West Lafayette, IN
+**Bachelors of Science** in Electrical and Computer Engineering (2022), **Purdue University**, West Lafayette, IN
