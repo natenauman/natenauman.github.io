@@ -46,7 +46,7 @@ show_tile: false
     <p>I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.</p>
   </div>
   <div class="column right">
-    <img src="assets/images/sunset.jpg" alt="Nathaniel Nauman" width="300" height="250"> 
+    <img src="assets/images/bio_photo.jpg" alt="Nathaniel Nauman" width="300" height="250"> 
   </div>
 </div>
 
