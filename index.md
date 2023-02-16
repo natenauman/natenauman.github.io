@@ -8,6 +8,14 @@ author: null
 show_tile: false
 ---
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
 /* Create two unequal columns that floats next to each other */
 .column {
   float: left;
@@ -46,6 +54,9 @@ show_tile: false
   </div>
 </div>
 
+</body>
+</html>  
+  
 <img src="assets/images/sunset.jpg" alt="Nathaniel Nauman" width="250" height="200"> 
 
 I am a master's student in computer engineering at Purdue University. My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity.
