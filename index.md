@@ -24,11 +24,11 @@ show_tile: false
 }
 
 .left {
-  width: 25%;
+  width: 70%;
 }
 
 .right {
-  width: 75%;
+  width: 30%;
 }
 
 /* Clear floats after the columns */
