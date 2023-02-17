@@ -22,4 +22,4 @@ The robotic arm takes a coordinate provided by the user and determines the optim
 
 This robotic limb is meant to function as a building block for constructing walking robots. It is specially designed as a hexapod leg for traversing non-planar environments, but its possible applications in industry are endless.
 
-<img src="arm_render.jpg" alt="Robotic Arm Render">
+<img src="arm_render.png" alt="Robotic Arm Render">
