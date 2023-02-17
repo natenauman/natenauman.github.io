@@ -22,7 +22,7 @@ nav-menu: true
 				</header>
 				<p>As part of my senior design project, I built and programmed a robotic arm with cabling linkages with three other group memebers. A set of coordinates can be sent to the STM32 microcontroller from the user interface and the robotic arm finds the optimal path to that point through inverse kinematics.</p>
 				<ul class="actions">
-					<li><a href="senior_design.md" class="button">Learn more</a></li>
+					<li><a href="senior_design.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
