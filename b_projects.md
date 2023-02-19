@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Projects
-description: Portfolio of academic projects
+description: This is a portfolio of my favorite electrical and computer engineering projects
 image: assets/images/hardware.jpg
 nav-menu: true
 ---
@@ -12,7 +12,7 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="generic.html" class="image">
+		<a href="senior_design.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
@@ -28,7 +28,7 @@ nav-menu: true
 		</div>
 	</section>
 	<section>
-		<a href="generic.html" class="image">
+		<a href="multicore.html" class="image">
 			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
@@ -38,23 +38,7 @@ nav-menu: true
 				</header>
 				<p>Purdue is the only university in the country that offers a course dedicated to building a multicore processor with cache coherency. I designed the pipelined processor as part of an individual project and expanded the hardware to include a second core as well as instruction and data caches with my teammate.</p>
 				<ul class="actions">
-					<li><a href="processor.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>USB Port on FPGA</h3>
-				</header>
-				<p>My first FPGA project was designing a USB port with exhaustively validated transmitter, receiver, FIFO, and CRC capabilities.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="multicore.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
