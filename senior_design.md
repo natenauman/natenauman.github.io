@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Robotic Arm with Inverse Kinematics and Cabling Linkages
+title: Smart Robotic Arm with Advanced Cabling Linkages
 nav-menu: false
 show_tile: false
 ---
@@ -12,7 +12,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Advanced Robotic Arm</h1>
+			<h1>Smart Robotic Arm with Advanced Cabling Linkages</h1>
 		</header>
 
 <!-- Content -->
