@@ -44,7 +44,7 @@ show_tile: false
 
 <div class="row">
   <div class="column left">
-    <p>I am a master's student in computer engineering at Purdue University. I graduated with Honors from Purdue University in 2022, where I received my BS in Computer Engineering and minors in both Mathematics and Arabic.<br>
+    <p>I was born in New Orleans, the birthplace of jazz. I am currently a master's student in Electrical Engineering at Purdue University. In 2022, I graduated with Honors and reeceived my BS in Computer Engineering as well as minors in Mathematics and Arabic from Purdue.<br><br>
     My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity. I am excited to explore novel device physics in my Ph.D.<br><br>
     <b>Master's of Science</b> in Electrical and Computer Engineering (2023), Purdue University<br>
     <b>Bachelors of Science Honors</b> in Computer Engineering (2022), Purdue University</p>
