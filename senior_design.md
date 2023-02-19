@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Robotic Arm with Inverse Kinematics
-description: Senior Design Project
+title: Robotic Arm with Inverse Kinematics and Cabling Linkages
 nav-menu: false
 show_tile: false
 ---
