@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Research
-description: Undergraduate research assistant
+description: Laboratory experiences as a research assistant
 image: assets/images/wafer.jpg
 nav-menu: true
 ---
