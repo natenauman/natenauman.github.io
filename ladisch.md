@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Professor Michael Ladisch's Laboratory of Renewable Resources
+title: Professor Michael Ladisch's Laboratory of Renewable Resources Engineering
 nav-menu: false
 show_tile: false
 ---
@@ -12,7 +12,7 @@ show_tile: false
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Professor Michael Ladisch's Laboratory of Renewable Resources</h1>
+			<h1>Professor Michael Ladisch's Laboratory of Renewable Resources Engineering (LORRE)</h1>
 		</header>
 
 <!-- Content -->
