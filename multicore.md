@@ -16,3 +16,4 @@ show_tile: false
 		</header>
 
 <!-- Content -->
+Designing and implmenting a pipelined, multicore processor with cache coherency remains one of the most difficult yet rewarding projects in my life. Purdue is the only university in the country that offers a course dedicated to such an extensive FPGA project. This was the culmination of years of undergraduate ASIC design courses.<br><br>
