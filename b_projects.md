@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Smart Robotic Arm with Advanced Cabling Linkages</h3>
 				</header>
-				<p>As project leader, I worked closely with my teammates to design and build the mechanical and electrical components for one of the most ambitious senior design projects at Purdue University. This robotic limb finds the optimal path to any given coordinate and moves its end effector with the help of a revolutionary new elbow joint design. All the motors are centered at the base of the robot and force amplication in each joint is achieved through pulleys and tensioned cables.</p>
+				<p>As project leader, I worked closely with my teammates to design and build the mechanical and electrical components for one of the most ambitious senior design projects at Purdue University. This robotic limb finds the optimal path to any given coordinate and moves its end effector with the help of a revolutionary new elbow joint design. All the motors are centered at the base of the robot and force multiplication in each joint is achieved through pulleys and cabling linkages.</p>
 				<ul class="actions">
 					<li><a href="senior_design.html" class="button">Learn more</a></li>
 				</ul>
@@ -36,7 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Multicore Processor on FPGA</h3>
 				</header>
-				<p>Purdue is the only university in the country that offers a course dedicated to building a multicore processor with cache coherency. I designed the pipelined processor as part of an individual project and expanded the hardware to include a second core as well as instruction and data caches with my teammate.</p>
+				<p>Designing and implmenting a pipelined, multicore processor with cache coherency remains one of the most difficult yet rewarding projects in my life. Purdue is the only university in the country that offers a course dedicated to such an extensive FPGA project. This was the culmination of years of undergraduate ASIC design courses.</p>
 				<ul class="actions">
 					<li><a href="multicore.html" class="button">Learn more</a></li>
 				</ul>
