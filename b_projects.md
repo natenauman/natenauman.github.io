@@ -13,7 +13,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="senior_design.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/senior_design.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -29,7 +29,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="multicore.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/cache_control.png %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
