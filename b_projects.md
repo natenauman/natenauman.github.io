@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Projects
-description: This is a portfolio of my favorite electrical and computer engineering projects
+description: Portfolio of my favorite academic projects
 image: assets/images/hardware.jpg
 nav-menu: true
 ---
@@ -18,9 +18,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Robotic Arm with Cabling Linkages</h3>
+					<h3>Smart Robotic Arm with Advanced Cabling Linkages</h3>
 				</header>
-				<p>As part of my senior design project, I built and programmed a robotic arm with cabling linkages with three other group memebers. A set of coordinates can be sent to the STM32 microcontroller from the user interface and the robotic arm finds the optimal path to that point through inverse kinematics.</p>
+				<p>As project leader, I worked closely with my teammates to design and build the mechanical and electrical components for one of the most ambitious senior design projects at Purdue University. This robotic limb finds the optimal path to any given coordinate and moves its end effector with the help of a revolutionary new elbow joint design. All the motors are centered at the base of the robot and force amplication in each joint is achieved through pulleys and tensioned cables.</p>
 				<ul class="actions">
 					<li><a href="senior_design.html" class="button">Learn more</a></li>
 				</ul>
