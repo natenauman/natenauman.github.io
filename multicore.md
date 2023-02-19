@@ -16,4 +16,10 @@ show_tile: false
 		</header>
 
 <!-- Content -->
-Designing and implmenting a pipelined, multicore processor with cache coherency remains one of the most difficult yet rewarding projects in my life. Purdue is the only university in the country that offers a course dedicated to such an extensive FPGA project. This was the culmination of years of undergraduate ASIC design courses.<br><br>
+Designing and implmenting a pipelined, multicore processor with cache coherency remains one of the most difficult yet rewarding projects of my life. Purdue is the only university in the country that offers a course dedicated to such an extensive FPGA project. Prior to this class, I studied digital design on FPGA boards in undergraduate ASIC design courses for one year. I also wrote dual thread programs in the assembly language MIPS.<br><br>
+My teammate and I recorded the maximum clock frequency and clock cycle used in gate level simulations and computed both the Instruction Latency (IL) and the number of Millions Instructions Per Second (MIPS) to compare two designs. The benchmark program we used throughout testing is merge sort. This program's instruction count is 5404 in the single thread version of merge sort and 5421 in the dual thread version of merge sort.<br><br>
+<center><img src="assets/images/multicore_fbd.png" alt="Multicore FBD" width="600"></center>
+<center><b>Figure 1.</b> Functional block diagram of the pipelined multicore processor.</center>
+		<br>
+<center><img src="assets/images/multicore_perf.png" alt="Multicore Performance Results" width="600"></center>
+		
