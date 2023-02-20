@@ -63,27 +63,7 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2 style="text-align:center">Studying Arabic full-time in Rabat, Morocco in 2019</h2>
 
-<div class="slideshow-container">
-  <div class="mySlides1">
-    <img src="assets/images/sunset.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides1">
-    <img src="assets/images/ocean.jpg" style="width:100%">
-  </div>
-
-  <div class="mySlides1">
-    <img src="assets/images/minaret.jpg" style="width:100%">
-  </div>
-
-  <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
-  <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
-</div>
-	
-<br><br>
-	
 <h2 style="text-align:center">Studying abroad in Italy in 2022</h2>
 	
 <div class="slideshow-container">
@@ -106,6 +86,40 @@ img {vertical-align: middle;}
   <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
   <a class="next" onclick="plusSlides(1, 1)">&#10095;</a>
 </div>
+
+<br><br>
+	
+<h2 style="text-align:center">Studying Arabic full-time in Rabat, Morocco in 2019</h2>
+
+<div class="slideshow-container">
+  <div class="mySlides1">
+    <img src="assets/images/rabat.png" style="width:100%">
+  </div>
+	
+  <div class="mySlides1">
+    <img src="assets/images/sunset.jpg" style="width:100%">
+  </div>
+	
+  <div class="mySlides1">
+    <img src="assets/images/noufel.png" style="width:100%">
+  </div>
+	
+  <div class="mySlides1">
+    <img src="assets/images/ismael.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides1">
+    <img src="assets/images/ocean.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides1">
+    <img src="assets/images/minaret.jpg" style="width:100%">
+  </div>
+
+  <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
+  <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
+</div>
+	
 
 <script>
 let slideIndex = [1,1];
