@@ -45,7 +45,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="bagchi.html" class="image">
-			<img src="{% link assets/images/conf_DSN.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/DSN_paper.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
