@@ -13,12 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Photography</h1>
+			<h1>Personal Interests and Activities</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Studying Intermediate Arabic in Rabat, Morocco through NSLI-Y Immersion Program</h2>
-
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -65,9 +63,8 @@ img {vertical-align: middle;}
 </head>
 <body>
 
-<h2 style="text-align:center">Multiple Slideshows</h2>
+<h2 style="text-align:center">Studying Arabic full-time in Rabat, Morocco in 2019</h2>
 
-<p>Slideshow 1:</p>
 <div class="slideshow-container">
   <div class="mySlides1">
     <img src="assets/images/sunset.jpg" style="width:100%">
@@ -85,7 +82,8 @@ img {vertical-align: middle;}
   <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
 </div>
 
-<p>Slideshow 2:</p>
+<h2 style="text-align:center">Studying Arabic full-time in Rabat, Morocco in 2019</h2>
+	
 <div class="slideshow-container">
   <div class="mySlides2">
     <img src="assets/images/minaret.jpg" style="width:100%">
