@@ -105,10 +105,6 @@ img {vertical-align: middle;}
   </div>
 	
   <div class="mySlides1">
-    <img src="assets/images/noufel.png" style="width:100%">
-  </div>
-	
-  <div class="mySlides1">
     <img src="assets/images/ismael.jpg" style="width:100%">
   </div>
 
