@@ -81,7 +81,9 @@ img {vertical-align: middle;}
   <a class="prev" onclick="plusSlides(-1, 0)">&#10094;</a>
   <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
 </div>
-
+	
+<br><br>
+	
 <h2 style="text-align:center">Studying abroad in Italy in 2022</h2>
 	
 <div class="slideshow-container">
