@@ -44,7 +44,7 @@ show_tile: false
 
 <div class="row">
   <div class="column left">
-    <p>I was born in New Orleans, the birthplace of jazz. I am currently a master's student in Electrical Engineering at Purdue University. In 2022, I graduated with Honors and reeceived my BS in Computer Engineering as well as minors in Mathematics and Arabic from Purdue.<br><br>
+    <p>I was born in New Orleans, the birthplace of jazz. I am currently a master's student in Electrical Engineering at Purdue University. In 2022, I graduated with  my BS Honors in Computer Engineering from Purdue along with minors in Mathematics and Arabic.<br><br>
     My research interests are materials where quantum mechanics gives rise to extraordinary exotic properties through magnetism, topology, or superconductivity. I am excited to explore novel device physics in my Ph.D.<br><br>
     To download my one-page CV, please click <a id="raw-url" href="https://raw.githubusercontent.com/natenauman/natenauman.github.io/master/CV_Nauman.pdf">here</a>.<br><br>
     <b>Master's of Science</b> in Electrical and Computer Engineering (2023), Purdue University<br>
