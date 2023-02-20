@@ -82,19 +82,23 @@ img {vertical-align: middle;}
   <a class="next" onclick="plusSlides(1, 0)">&#10095;</a>
 </div>
 
-<h2 style="text-align:center">Studying Arabic full-time in Rabat, Morocco in 2019</h2>
+<h2 style="text-align:center">Studying abroad in Italy in 2022</h2>
 	
 <div class="slideshow-container">
   <div class="mySlides2">
-    <img src="assets/images/minaret.jpg" style="width:100%">
+    <img src="assets/images/italy_1.png" style="width:100%">
   </div>
 
   <div class="mySlides2">
-    <img src="assets/images/ocean.jpg" style="width:100%">
+    <img src="assets/images/italy_2.png" style="width:100%">
   </div>
 
   <div class="mySlides2">
-    <img src="assets/images/sunset.jpg" style="width:100%">
+    <img src="assets/images/italy_3.png" style="width:100%">
+  </div>
+	
+  <div class="mySlides2">
+    <img src="assets/images/italy_4.png" style="width:100%">
   </div>
 
   <a class="prev" onclick="plusSlides(-1, 1)">&#10094;</a>
