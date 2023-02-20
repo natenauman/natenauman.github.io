@@ -23,6 +23,7 @@ I led a team comprised of two other students, one from animal sciences and the o
 		<center><img src="assets/images/plant_weight_graph.jpg" alt="Competition Award" width="450"></center>
 		<center><b>Figure 2.</b> Mean plant weight (g) of lettuce plants with applications of control, hydrolysate from neutrase,
 and hydrolysate from trypsin.</center>
+		<br>
 		<center><img src="assets/images/root_length_graph.jpg" alt="Competition Award" width="450"></center>
 		<center><b>Figure 3.</b> Mean root length (cm) of lettuce plants with applications of control, hydrolysate from neutrase,
 and hydrolysate from trypsin.</center>
