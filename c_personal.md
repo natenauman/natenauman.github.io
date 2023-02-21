@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-Some of my extracurricular passions include oil painting, mountain climbing, running, and language-learning. I never get tired of studying new languages because it allows me to travel and connect deeply with people from across the world. I speak French and Arabic proficiently, and I am conversational in Bengali. The combination of French and Arabic has allowed travel around me to North Africa on multiple occasions: I lived with a host family in Rabat, Morocco for 3 months after graduating high school, and I embarked on a week of solo-traveling in Tunisia during the summer of 2022. Bengali is one of the richest languages on the planet since it boasts exceptional poetry and the most beautiful songs, and I was surprised to find that Bengali is more widely spoken than French! This summer, I hope to participate in the CLS immersion program through which I would study Bengali while living in India or Bangladesh for over 2 months.<br><br>
+Some of my extracurricular passions include oil painting, mountain climbing, running, and language-learning. I never get tired of studying new languages because it allows me to travel and connect deeply with people from across the world. I speak French and Arabic proficiently, and I am conversational in Bengali. The combination of French and Arabic has allowed me to travel around North Africa on multiple occasions: I lived with a host family in Rabat, Morocco for 3 months after graduating high school and I embarked on a week of solo-traveling in Tunisia during the summer of 2022. Bengali is one of the richest languages on the planet since it boasts exceptional poetry and the most beautiful songs, and I was surprised to find that Bengali is more widely spoken than French! This summer, I hope to participate in the CLS immersion program through which I would study Bengali while living in India or Bangladesh for over 2 months.<br><br>
 	
 <html>
 <head>
@@ -66,7 +66,7 @@ img {vertical-align: middle;}
 <body>
 
 
-<h2 style="text-align:center">Studying abroad in Italy in 2022</h2>
+<h2 style="text-align:center">Honors College Study Abroad in Italy (2022)</h2>
 	In the summer of 2022, I traveled to Italy with the Honors College to explore its rich history and culture from the medieval period to the postmodern present. Italy is especially unique since all of these cultural and philosophical movements coexist beautifully. A significant amount of medieval, Renaissance, and modern architecture is well-preserved.<br><br>
 	
 <div class="slideshow-container">
@@ -92,7 +92,7 @@ img {vertical-align: middle;}
 
 <br><br>
 	
-<h2 style="text-align:center">Studying Arabic full-time in Rabat, Morocco in 2019</h2>
+<h2 style="text-align:center">Studying Arabic full-time in Rabat, Morocco (2019)</h2>
 	In the summer of 2019, I received a full scholarship from the State Department to study Arabic through immersion. I had the privilege of volunteering at two centers in Rabat, Morocco by cooking and serving food. One of these two institutions was a women’s hospital. As I brought fried sweets to each woman’s bed, I listened to their stories, hopes, and hardships. This was one of the most humbling experiences of my life.<br><br>
 
 <div class="slideshow-container">
