@@ -67,7 +67,7 @@ img {vertical-align: middle;}
 
 
 <h2 style="text-align:center">Honors College Study Abroad in Italy (2022)</h2>
-	In the summer of 2022, I traveled to Italy with the Honors College to explore its rich history and culture from the medieval period to the postmodern present. Italy is especially unique since all of these cultural and philosophical movements coexist beautifully. A significant amount of medieval, Renaissance, and modern architecture is well-preserved.<br><br>
+	In the summer of 2022, I traveled to Italy to explore its rich history and culture from the medieval period to the postmodern present. Italy is especially unique since all of these cultural and philosophical movements coexist beautifully. A significant amount of medieval, Renaissance, and modern architecture is well-preserved. This intensive study abroad was made possible by Purdue University's Honors College.<br><br>
 	
 <div class="slideshow-container">
   <div class="mySlides2">
