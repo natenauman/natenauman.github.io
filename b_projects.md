@@ -36,7 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Multicore Processor on FPGA</h3>
 				</header>
-				<p>Designing and implmenting a pipelined, multicore processor with cache coherency remains one of the most difficult yet rewarding projects of my life. Purdue is the only university in the country that offers a course dedicated to such an extensive FPGA project. Prior to this class, I studied digital design on FPGA boards in two semesters of undergraduate ASIC design courses. I also wrote dual thread programs in the assembly language MIPS to test my designs.</p>
+				<p>Designing and implementing a pipelined, multicore processor with cache coherency remains one of the most difficult yet rewarding projects of my life. Purdue is the only university in the country that offers a course dedicated to such an extensive FPGA project. Prior to this class, I studied digital design on FPGA boards in two semesters of undergraduate ASIC design courses. I also wrote dual thread programs in the assembly language MIPS to test my designs.</p>
 				<ul class="actions">
 					<li><a href="multicore.html" class="button">Learn more</a></li>
 				</ul>
