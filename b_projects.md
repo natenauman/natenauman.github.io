@@ -43,4 +43,20 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="fabrication.html" class="image">
+			<img src="{% link assets/images/fabrication.png %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Nanofabrication in Purdue's Cleanroom</h3>
+				</header>
+				<p>I was the first undergraduate student to take part in Purdue's new IC fabrication course. I learned how to operate equipment in Birck Nanotechnology Center's cleanroom including ALD, PVD, lithography, as well as wet and dry etching while fabricating cantilevers.</p>
+				<ul class="actions">
+					<li><a href="fabrication.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 </section>
