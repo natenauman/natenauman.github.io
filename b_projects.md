@@ -36,7 +36,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Smart Robotic Arm with Advanced Cabling Linkages</h3>
 				</header>
-				<p>As project leader, I worked closely with my teammates to design and build the mechanical and electrical components for one of the most ambitious senior design projects at Purdue University. This robotic limb finds the optimal path to any given coordinate and moves its end effector with the help of a revolutionary new elbow joint design. All the motors are centered at the base of the robot and force multiplication in each joint is achieved through pulleys and cabling linkages.</p>
+				<p>As project leader, I worked closely with my teammates to design and build the mechanical and electrical components for one of the most ambitious senior design projects at Purdue University. This robotic limb finds the optimal path to any given coordinate and moves its end effector with the help of a revolutionary new elbow joint design. All the motors are centered at the base of the robot and a 3:1 force multiplication in each joint is achieved through pulleys and cabling linkages.</p>
 				<ul class="actions">
 					<li><a href="senior_design.html" class="button">Learn more</a></li>
 				</ul>
