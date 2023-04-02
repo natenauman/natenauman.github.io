@@ -20,7 +20,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Professor Michael Manfra's Quantum Semiconductor Systems Group</h3>
 				</header>
-				<p>I designed and fabricated sample holder pucks (probe attachments) in the Helium-3 dilution refrigerator as well as 4K Helium-3 systems. This allowed me to more fully understand the equipment necessary for low-temperature measurements of devices.</p>
+				<p>I designed and fabricated sample holder pucks (probe attachments) in a Helium-3 dilution refrigerator and 4K Helium-3 systems. This allowed me to more fully understand the equipment necessary for low-temperature measurements of devices.</p>
 				<ul class="actions">
 					<li><a href="manfra.html" class="button">Learn more</a></li>
 				</ul>
